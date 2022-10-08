@@ -1,2 +1,5 @@
 # Algorithms-and-Data-Structures
-Представлена реализация алгоритмов и структур данных, а также решение заданий различной сложности на LeetCode с их использованием
+The implementation of algorithms and data structures is presented, as well as the solution of tasks of varying complexity on LeetCode using them
+
+--data structures
+- linkedList
