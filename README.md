@@ -6,6 +6,7 @@ Data Structures
 - linkedList
 - stack
 - binary trees
+
 Algorithms
 --
 - nothing
