@@ -5,6 +5,7 @@ Data Structures
 --
 - linkedList
 - stack
+- hash tables
 - binary trees
 
 Algorithms
